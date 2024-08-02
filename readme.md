@@ -1,5 +1,7 @@
 # SageMath Notebook
+This Jupyter Notebook image contains the SageMath Jupyter kernel.
 
-This Jupyter Notebook image contains the SageMath v10.0 Jupyter kernel.
+## Software Included
+- SageMath v10.3
 
-This image is based upon the [National Research Platform's version of the Jupyter Stack SciPy image](https://gitlab.nrp-nautilus.io/prp/jupyter-stack/-/tree/prp/scipy-notebook)
+This image is based upon the [Jupyter Stack SciPy image](https://github.com/jupyter/docker-stacks/tree/main/images/scipy-notebook)
